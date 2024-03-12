@@ -1,7 +1,7 @@
 # GeeksforGeeks 2.0 🚀 
 
-**Video link** <a href="https://drive.google.com/file/d/1QQPnotBgHxyz0fwrNGHYqZSrmozyYWDR/view?usp=sharing"> Live Demo</a>
-**Web link** <a href="https://newgfg.netlify.app/"> Live Demo</a>
+**Video link** <a href="https://drive.google.com/file/d/1QQPnotBgHxyz0fwrNGHYqZSrmozyYWDR/view?usp=sharing" target="_blank"> Live Demo</a>
+**Web link** <a href="https://newgfg.netlify.app/" arget="_blank">> Live Demo</a>
 
 
 ## Unveiling the Next Chapter! 🌟
